@@ -1,0 +1,292 @@
+			computer 
+
+	Hardware					Software 
+
+	Machine component				logical
+
+	-keyboard			System s/w		Application s/w
+	-mouse			Machine		user/client
+	-mb			o/s
+	-ram			-mac
+	-TFT/LCD		-window's
+	-HDD			-solaris
+	etc 			-android				
+				-linux					
+
+					etc
+
+				Application s/w
+
+		Local				Globle
+
+
+		window app			web app
+		desktop app
+
+		run on particular system 		run on server
+		offine				online 
+		Ex.				Ex.
+		- tally 				-yahoo				
+		-Ms Office				-gmail
+		-Notepad				-fb
+		-Nero 				-flipkart
+		-VLC				-amazon
+		etc 				etc 
+
+--------------------------------------------------------------------------------------------------------------------------
+			Language 
+
+		Medium of communication 
+	Indian				Foreigner
+			Mediator
+			Medium 
+			Translator 
+			H/E	
+	hindi				english
+		-------------------------------
+		
+	Source lang			computer lang 
+			Translator 
+	hindi				binary lang 
+	english 				or
+	urdu 				machine lang 
+	gujrati
+	marathi
+	punjabi 
+	etc 
+
+		---------------------------------------
+			Translator 
+
+	Assember		Interpreter		compiler 
+	
+	single char 	single row			whole code
+	by 		by
+	single char		single row		
+
+
+	lowest speed	medium speed		highest speed			
+----------------------------------------------------------------------------------------------------------------------------
+
+			computer related languages 
+->programing 
+	-business logic
+	-code construction	
+	-validation
+		local 		globle
+		c		-
+		c++		-
+		java		java
+		python		python
+		-		php
+		.Net		.Net
+		etc		etc 
+->Structure
+	-backend 
+	-data store in logical format 
+	-DBMS 
+	-SQL 
+		-Oracle
+		-MS SQLserver
+		-MS Access
+		-Sybase
+		-DB2
+		-SQlite 
+		-mySql
+		etc 
+->Scripting
+	- client side validation on the web page 
+		-Java Script 
+		-VB Script 
+		-Jquery
+		-Angular JS
+		-Node JS 
+		etc 
+->Markup
+	- tag based 
+		-HTML
+		-HTML5
+		-CSS
+		-Bootstrap
+		-Templates 
+		etc 
+	-----------------------------------------------------------------------------------
+
+1. 	Frontend / presentation logic/ view / animation / user interface / design etc 
+		(Scripting & markup )
+
+2.	Process / business logic (Front end to backend communication )
+		(Programing )
+
+3.	Backend / data store in logical format / DBMS / SQL 
+		(Structured )
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+			Evoluation of programing languages 
+
+	1957	Fortran 		Formula translation 
+
+	1960	Algol 		Algorithim based 
+
+	1963	BCPL 		Basic combine programing lang 
+
+	1967	CPL		combine prog lang 
+
+	1970	B lang 		developed by 
+				Sir Martin Ritchard
+
+	1972	C lang		developed by 
+				Sir Denis Ritchie 
+
+
+	1980	C with ADV 
+		or C++		developed by 
+				Sir BJARNE Stroustrup 
+
+	-----------------------------Disadvantage --------------------------------------------------
+		c/C++
+	-local 
+	-platform dependent 
+	- Unsecure 
+
+	-------------------Objective -------------------
+	-Globle 
+	-platform independent 
+	-Secure 
+
+	--------------------------------------------------------------------
+	preface of the JAVA .....
+
+			1991
+			JAVA
+		
+			developed by Sir James Gosling 
+
+			OAK --------real name 
+			
+			rename 
+			1995 
+
+			JAVA -------------------new name 
+
+			SUN Micro System 
+				Since 2008
+			Oracle
+--------------------------------------------------------------------------------------------------------------------------------	
+->J2SE
+	-JAVA 2 Standard edition 
+	-core java
+	- local app
+	- desktop app
+	- run on a particular system 
+	- offline 
+		- CUI (Character user interface)
+		- GUI (Graphical user interface)	
+
+->J2EE
+	-Java 2 enterprises edition 
+	- advance java 
+	- globle app
+	- run on server 
+		-servlet 
+		-jsp
+		-java bean 
+		-EL
+			etc 
+->J2ME
+	-java 2 Micro Edition 
+	-wireless technology 
+		-datacard 
+		-broadband 
+		-mobile app
+		etc  
+->EJB
+	-Enterprises java bean
+		Controller 
+			- session bean
+			-entity bean
+			-MDB (Message driven beans )
+->FRAMEWORK 
+	
+	-JSF
+		-presentation 
+		-View
+	-Hibernate 
+		-backend
+		-Model 
+	-Spring
+		-controller
+		-Busniess logic
+
+	-STRUTS 	
+		Framework/MVC based /JAVA follow --------Vendor *** Apache Tomcat***	
+
+	-MVC
+		Model / view / controller 	
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+			core java application development 
+
+	type 1			type 2
+
+	Mannual 			IDE
+				(Integrated development environment )
+
+					
+	-Notepad			-Netbeans
+	-command prompt 		-Ecllipse
+				-Intellij Idea 
+					etc 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+			Architecture of JAVA 
+	java is a two way process
+		I process			II Process
+	step 1			step 2		step3
+	
+	source code 		Byte code 		machine code 
+
+	.java 			.class
+
+		developer			user/client 
+
+		compile			execute/run
+
+		compiler 			Interpreter
+
+		javac			java
+
+		JDK			JVM 
+		(Java development kit )
+
+	INSTALL
+
+	location :
+	c:\\program files\\ java \\ jdk \\ bin\javac  
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+			
+				How to install JDK 
+
+	WORA
+
+	write once run anywhere 
+
+	compile 
+		javac source_file_name.java
+		
+	run/execute  
+		java class_file_name
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
